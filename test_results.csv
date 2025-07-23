@@ -1,0 +1,300 @@
+employee_id,department,region,education,gender,recruitment_channel,no_of_trainings,age,previous_year_rating,length_of_service,awards_won,avg_training_score
+67269,Analytics,region_22,Bachelor's,m,sourcing,2,36,3,3,0,85
+54055,Analytics,region_24,Bachelor's,m,other,1,37,3,10,0,82
+5677,Technology,region_17,Bachelor's,m,sourcing,1,25,,1,0,80
+60889,Technology,region_29,Master's & above,m,sourcing,1,30,1,3,0,83
+61083,Analytics,region_13,Bachelor's,m,sourcing,1,34,3,3,0,87
+72407,Analytics,region_2,Master's & above,m,sourcing,2,34,4,7,0,87
+67672,Technology,region_17,Bachelor's,m,other,1,29,,1,0,85
+68788,Technology,region_23,Bachelor's,m,sourcing,2,33,4,9,0,83
+55325,Analytics,region_22,Bachelor's,m,other,1,25,,1,0,88
+41432,Analytics,region_26,Bachelor's,m,sourcing,1,26,5,4,0,90
+7935,Technology,region_2,Bachelor's,f,other,1,52,5,18,0,80
+10059,Analytics,region_34,Bachelor's,m,sourcing,3,27,3,2,0,83
+44159,Analytics,region_22,Master's & above,m,other,1,31,,1,0,84
+21379,Technology,region_4,Bachelor's,m,sourcing,1,26,,1,0,85
+23714,Technology,region_7,Master's & above,m,sourcing,2,40,3,6,0,81
+5387,Technology,region_5,Below Secondary,m,other,1,23,,1,0,81
+65975,Analytics,region_29,Bachelor's,m,other,2,28,5,4,0,84
+70117,Technology,region_15,Bachelor's,m,other,1,29,3,2,0,84
+51972,Analytics,region_7,Bachelor's,m,sourcing,1,32,4,6,0,85
+9548,Analytics,region_22,Bachelor's,m,sourcing,2,38,4,13,0,87
+64,Analytics,region_4,Bachelor's,m,other,1,42,5,11,0,80
+10732,Analytics,region_2,Bachelor's,m,other,1,31,5,5,0,92
+1555,Technology,region_7,Bachelor's,m,sourcing,1,30,3,3,0,80
+45009,Analytics,region_29,Bachelor's,m,sourcing,1,32,3,5,0,86
+65450,Technology,region_2,Master's & above,f,sourcing,2,57,2,7,0,83
+2347,Analytics,region_15,,m,other,2,37,5,8,0,82
+8443,R&D,region_22,Master's & above,m,other,2,27,4,5,0,86
+69077,Technology,region_24,Master's & above,f,other,1,37,3,10,0,81
+67417,Analytics,region_29,Bachelor's,m,other,1,37,5,4,0,82
+51840,Analytics,region_22,Master's & above,m,other,1,27,,1,0,86
+29681,Analytics,region_19,Bachelor's,m,other,1,29,3,4,0,84
+40276,R&D,region_22,Master's & above,m,sourcing,2,32,5,5,0,88
+17936,Analytics,region_29,Bachelor's,m,other,1,28,3,7,0,83
+26270,Technology,region_15,Master's & above,m,sourcing,1,35,1,9,0,81
+1908,Analytics,region_4,Master's & above,m,other,1,38,4,7,0,88
+3901,Technology,region_13,Master's & above,m,other,1,38,5,2,0,88
+55735,Technology,region_31,Master's & above,m,other,1,39,5,4,1,81
+42719,Analytics,region_21,,m,sourcing,1,27,,1,0,80
+26037,Analytics,region_16,Bachelor's,m,other,2,31,3,5,0,81
+30607,Analytics,region_22,Bachelor's,m,sourcing,1,28,5,4,0,85
+65694,Technology,region_2,Bachelor's,f,other,1,24,1,2,0,82
+2721,Analytics,region_22,,f,sourcing,2,26,5,3,0,86
+4701,Technology,region_26,Bachelor's,f,other,1,43,1,4,0,86
+11061,Technology,region_33,Bachelor's,m,other,1,48,3,6,0,81
+17607,Analytics,region_2,Master's & above,m,other,1,59,4,13,0,82
+3864,Analytics,region_13,Bachelor's,m,other,1,46,4,6,0,82
+19513,Analytics,region_6,Bachelor's,m,other,1,28,,1,0,84
+74965,Technology,region_15,Bachelor's,f,other,1,34,4,6,0,82
+13223,R&D,region_7,Bachelor's,f,other,1,32,3,5,0,85
+67233,Analytics,region_32,Bachelor's,m,sourcing,1,38,3,3,0,82
+38096,Analytics,region_22,Bachelor's,m,sourcing,2,28,,1,0,83
+2111,Procurement,region_2,Bachelor's,f,other,1,56,5,6,0,84
+15182,Technology,region_14,Bachelor's,f,other,1,39,3,4,0,80
+13593,Analytics,region_26,Bachelor's,m,sourcing,1,30,5,4,0,84
+15613,R&D,region_2,Bachelor's,m,other,2,42,3,9,0,84
+7722,R&D,region_26,Master's & above,m,other,1,29,5,4,0,82
+71271,Technology,region_13,Master's & above,f,other,1,37,4,7,0,81
+52138,Analytics,region_16,Bachelor's,m,other,1,28,3,4,0,83
+75402,Analytics,region_24,Master's & above,m,other,1,34,3,3,0,87
+3987,Analytics,region_29,Bachelor's,m,other,1,34,2,5,0,84
+15161,Technology,region_2,Master's & above,f,other,1,43,3,6,0,80
+59084,Analytics,region_2,Master's & above,f,other,1,42,5,13,0,85
+42772,Technology,region_11,Bachelor's,f,other,1,27,3,2,0,84
+29998,Analytics,region_34,Bachelor's,m,other,1,35,5,10,0,85
+44299,Analytics,region_29,Bachelor's,m,other,1,30,3,4,0,83
+14778,Analytics,region_22,,m,other,1,29,5,2,0,84
+70890,Technology,region_24,Bachelor's,m,other,1,32,2,6,0,90
+70734,Procurement,region_15,Bachelor's,m,other,1,38,4,2,1,97
+47051,Analytics,region_2,Bachelor's,m,sourcing,2,39,4,5,0,86
+17760,Analytics,region_27,Bachelor's,m,other,1,28,5,2,0,87
+38018,Analytics,region_11,Bachelor's,m,other,1,30,3,4,0,80
+29799,Analytics,region_4,Bachelor's,m,other,1,32,5,8,0,86
+15317,Analytics,region_23,Master's & above,m,sourcing,1,35,2,7,0,87
+62212,Procurement,region_31,Master's & above,f,other,1,37,3,2,1,97
+38520,Technology,region_6,Bachelor's,f,sourcing,1,31,5,4,0,87
+74040,Technology,region_24,Master's & above,f,other,1,35,1,7,0,80
+31049,Analytics,region_13,Bachelor's,m,sourcing,1,34,4,9,0,84
+55523,Analytics,region_2,Master's & above,m,sourcing,2,58,5,6,0,81
+41982,R&D,region_2,Bachelor's,m,sourcing,1,30,1,4,0,84
+9095,Operations,region_22,Master's & above,f,other,1,33,4,8,0,81
+28127,Technology,region_13,Below Secondary,f,sourcing,1,24,2,2,0,85
+53267,R&D,region_26,Bachelor's,m,other,1,31,4,6,0,84
+4208,Technology,region_7,Master's & above,m,referred,1,36,4,4,0,80
+17603,Analytics,region_26,Bachelor's,m,sourcing,1,29,,1,0,84
+39224,Technology,region_27,Bachelor's,m,other,1,28,5,2,1,95
+31641,Analytics,region_2,Bachelor's,m,other,1,37,3,4,0,81
+10376,Analytics,region_31,Bachelor's,m,other,1,39,3,10,0,86
+71007,Technology,region_26,Bachelor's,m,other,1,36,3,11,0,82
+43891,Analytics,region_26,Bachelor's,m,other,1,30,2,5,0,88
+77266,Analytics,region_15,Bachelor's,m,sourcing,1,29,,1,0,89
+29911,Analytics,region_4,Master's & above,m,other,1,38,1,9,1,85
+1348,Analytics,region_22,Master's & above,m,sourcing,1,38,3,10,0,90
+14948,Technology,region_15,Bachelor's,m,sourcing,1,29,1,6,0,82
+27999,Analytics,region_6,Bachelor's,m,sourcing,1,28,5,2,0,86
+22469,Analytics,region_28,Master's & above,m,sourcing,1,35,5,7,0,85
+17506,Technology,region_7,Bachelor's,m,sourcing,2,27,5,4,0,82
+32124,Analytics,region_32,Bachelor's,f,sourcing,1,29,1,4,0,87
+48160,Analytics,region_31,Bachelor's,m,other,1,34,1,3,0,87
+50512,Technology,region_7,Master's & above,f,other,1,37,4,8,0,82
+33326,Technology,region_31,Master's & above,m,other,1,35,2,10,0,81
+376,R&D,region_16,Bachelor's,m,other,1,36,3,7,1,86
+21667,Technology,region_33,Master's & above,m,sourcing,1,40,1,4,0,80
+30283,Analytics,region_5,Bachelor's,m,other,1,31,5,4,0,88
+10860,R&D,region_7,Bachelor's,m,other,1,32,3,2,0,85
+76614,Technology,region_30,Bachelor's,f,sourcing,1,29,,1,0,83
+21160,Technology,region_26,Bachelor's,m,sourcing,1,26,5,4,0,94
+68619,Technology,region_20,Bachelor's,m,sourcing,1,30,4,4,0,80
+46772,R&D,region_22,Master's & above,m,other,1,39,4,9,0,84
+53821,Technology,region_2,Bachelor's,f,sourcing,3,29,,1,0,80
+42182,Analytics,region_29,Bachelor's,f,other,1,31,4,3,0,81
+2066,Technology,region_2,Bachelor's,m,sourcing,1,29,3,6,0,81
+42485,Technology,region_13,Bachelor's,f,other,1,30,5,4,0,81
+71289,Analytics,region_15,Bachelor's,m,other,1,29,,1,0,83
+50266,Analytics,region_30,Bachelor's,m,sourcing,1,30,5,5,0,86
+34661,Analytics,region_22,Bachelor's,m,other,1,30,2,5,0,84
+7551,Technology,region_13,Bachelor's,m,other,2,37,2,4,0,83
+57527,Analytics,region_34,Bachelor's,m,sourcing,2,27,4,2,0,86
+15689,R&D,region_22,Master's & above,m,sourcing,1,31,5,5,0,86
+39204,Analytics,region_24,Bachelor's,m,other,1,32,4,8,0,83
+26883,Analytics,region_27,Bachelor's,m,sourcing,3,29,5,5,0,87
+11436,Analytics,region_21,Bachelor's,m,sourcing,1,27,3,2,0,82
+4730,Technology,region_26,Bachelor's,f,other,1,29,4,2,0,85
+6891,Analytics,region_22,Master's & above,m,other,1,31,4,4,0,82
+60937,Technology,region_2,Master's & above,m,sourcing,1,40,3,11,0,82
+50037,Analytics,region_2,,m,other,1,28,1,3,0,82
+67091,Technology,region_26,Bachelor's,f,sourcing,1,37,1,7,0,84
+13164,Technology,region_5,Master's & above,m,sourcing,1,34,3,7,0,82
+40162,Analytics,region_15,Bachelor's,m,sourcing,1,23,,1,0,85
+31492,Analytics,region_25,Bachelor's,m,sourcing,1,27,3,2,0,85
+20962,Analytics,region_10,Master's & above,m,other,2,35,3,2,0,85
+28860,Technology,region_2,Master's & above,m,sourcing,1,34,3,8,0,81
+20345,Analytics,region_21,Bachelor's,m,other,2,27,5,5,0,83
+29033,Analytics,region_31,Bachelor's,m,sourcing,1,30,4,4,0,91
+64996,Analytics,region_22,,m,sourcing,1,27,3,3,0,84
+61360,R&D,region_22,Bachelor's,f,other,1,31,4,3,0,87
+18493,Analytics,region_7,Bachelor's,m,other,1,33,5,5,0,82
+68967,Analytics,region_4,Master's & above,m,other,1,49,5,13,0,85
+42688,R&D,region_7,Master's & above,m,other,1,38,3,3,0,83
+6907,Analytics,region_28,Master's & above,m,other,2,32,5,5,0,90
+44127,Technology,region_5,Bachelor's,f,other,1,37,5,3,0,82
+62916,Sales & Marketing,region_7,Bachelor's,m,other,1,42,5,7,1,91
+8019,Technology,region_16,Bachelor's,m,sourcing,1,54,3,8,0,80
+21112,Technology,region_2,Bachelor's,m,sourcing,1,37,2,3,0,80
+17816,Analytics,region_15,Bachelor's,m,sourcing,1,30,4,5,0,80
+50036,Technology,region_22,Bachelor's,m,other,2,28,3,2,0,81
+30033,Technology,region_27,Bachelor's,m,sourcing,1,28,,1,0,83
+41847,Technology,region_2,Bachelor's,f,sourcing,1,28,3,1,0,80
+29419,Technology,region_26,Master's & above,m,sourcing,1,43,3,4,0,84
+50441,Technology,region_10,Master's & above,m,other,1,44,4,15,0,81
+65210,R&D,region_7,Bachelor's,m,sourcing,2,34,3,8,0,87
+44136,Technology,region_2,Bachelor's,m,sourcing,2,56,3,23,0,84
+19098,Analytics,region_15,Bachelor's,m,other,1,31,4,4,1,85
+24168,Analytics,region_13,Master's & above,m,other,1,30,3,5,0,83
+77703,Analytics,region_22,Bachelor's,m,sourcing,2,32,3,9,0,83
+30307,Analytics,region_2,Bachelor's,m,other,3,38,3,10,0,86
+5238,Technology,region_23,Master's & above,m,other,1,39,4,4,0,82
+16426,Analytics,region_31,Bachelor's,m,sourcing,1,27,1,4,0,83
+29954,Analytics,region_31,Bachelor's,m,sourcing,2,28,4,2,0,85
+27369,Analytics,region_4,Master's & above,m,other,2,39,1,6,0,89
+34266,R&D,region_25,Master's & above,m,other,2,37,5,8,0,85
+49734,Technology,region_17,Master's & above,f,other,3,35,3,7,0,81
+16069,Technology,region_4,Master's & above,m,sourcing,1,52,4,6,0,83
+57108,Analytics,region_25,Master's & above,m,sourcing,1,37,5,4,0,84
+49902,Analytics,region_25,Bachelor's,m,other,1,32,3,3,0,82
+46473,Analytics,region_23,Master's & above,m,sourcing,1,36,5,2,0,84
+65248,Analytics,region_29,Bachelor's,m,sourcing,1,31,4,7,0,87
+61175,Technology,region_22,Master's & above,m,sourcing,1,37,4,2,0,80
+8824,Analytics,region_29,Bachelor's,m,other,2,27,3,3,0,85
+76037,Technology,region_7,Bachelor's,f,sourcing,1,32,3,3,0,82
+30534,Analytics,region_4,Bachelor's,m,sourcing,1,29,4,3,0,89
+33834,Analytics,region_22,Bachelor's,m,sourcing,2,30,3,5,0,83
+27401,Analytics,region_2,Master's & above,m,sourcing,1,37,3,5,0,81
+24099,Analytics,region_30,Bachelor's,m,sourcing,1,34,5,6,0,85
+24188,Technology,region_2,Bachelor's,f,referred,1,39,3,10,0,80
+1749,Technology,region_2,,m,other,2,34,3,6,0,85
+24091,Analytics,region_16,Bachelor's,m,other,1,34,5,7,0,86
+31902,Technology,region_28,Master's & above,f,other,2,32,3,2,0,80
+48217,Technology,region_2,Bachelor's,m,other,1,48,3,16,0,89
+65465,Analytics,region_30,Bachelor's,m,other,1,34,5,9,0,82
+26232,Technology,region_13,Master's & above,f,other,1,38,1,4,0,83
+59365,Analytics,region_7,Master's & above,m,other,1,42,5,4,0,85
+43824,Analytics,region_26,Bachelor's,m,sourcing,1,30,3,5,0,87
+76821,Analytics,region_2,Master's & above,m,other,1,53,4,6,0,88
+6366,Technology,region_5,Bachelor's,m,sourcing,1,25,,1,0,80
+67658,Analytics,region_32,Bachelor's,m,other,1,26,3,2,0,84
+13471,R&D,region_4,Bachelor's,m,sourcing,3,32,4,3,0,89
+1183,Analytics,region_27,Bachelor's,m,other,2,35,3,10,0,86
+66776,Procurement,region_7,Bachelor's,f,sourcing,1,28,5,6,0,84
+53366,Technology,region_17,Bachelor's,f,other,1,28,4,2,0,81
+44243,Technology,region_7,Bachelor's,f,sourcing,1,31,3,7,0,88
+58459,Analytics,region_22,Master's & above,f,other,1,30,3,2,0,87
+22506,Analytics,region_22,Bachelor's,m,other,2,35,2,4,0,87
+7488,Analytics,region_19,Bachelor's,m,other,1,33,3,6,0,83
+42978,Analytics,region_2,Bachelor's,m,other,1,35,1,4,0,86
+42310,Technology,region_33,Bachelor's,m,other,1,38,5,10,0,88
+66787,Technology,region_30,Bachelor's,m,sourcing,1,28,,1,0,95
+58208,Analytics,region_2,Bachelor's,m,other,1,43,5,4,0,83
+53176,Technology,region_2,,m,sourcing,1,41,3,12,0,80
+54516,Analytics,region_2,Bachelor's,m,sourcing,2,35,3,8,0,83
+7725,Technology,region_26,Bachelor's,m,other,1,47,3,4,0,87
+49036,R&D,region_7,Master's & above,m,other,1,40,4,3,0,85
+28899,Technology,region_4,Bachelor's,m,other,1,28,3,7,0,81
+66863,Analytics,region_14,Bachelor's,m,sourcing,2,30,4,1,0,85
+67681,Analytics,region_11,Bachelor's,m,sourcing,1,31,5,9,0,85
+43704,Technology,region_25,Bachelor's,f,other,1,30,3,4,0,80
+3990,Technology,region_10,Bachelor's,m,other,1,27,5,4,1,81
+55454,Technology,region_2,Bachelor's,m,referred,1,30,3,3,0,80
+55130,Technology,region_11,Master's & above,m,other,1,41,2,2,0,81
+31558,Technology,region_7,Master's & above,m,sourcing,1,47,5,16,0,81
+20232,Analytics,region_2,Bachelor's,f,other,1,26,4,2,0,89
+40572,Technology,region_2,Bachelor's,f,referred,1,34,4,7,0,82
+8158,Analytics,region_22,Bachelor's,m,sourcing,2,28,3,2,0,80
+73268,Analytics,region_2,Bachelor's,m,sourcing,1,32,4,8,0,86
+36629,Analytics,region_31,Bachelor's,m,sourcing,1,40,3,6,0,81
+31052,Analytics,region_22,Master's & above,m,sourcing,1,28,,1,0,84
+35379,Analytics,region_31,Bachelor's,m,other,3,29,5,6,0,87
+56099,Technology,region_28,Master's & above,m,other,1,31,4,5,0,81
+38791,Analytics,region_22,Bachelor's,f,other,1,26,5,2,0,94
+22877,Technology,region_26,Master's & above,f,other,1,33,3,7,0,80
+47380,Analytics,region_22,Master's & above,m,sourcing,1,29,3,4,0,84
+58067,Technology,region_33,Bachelor's,f,other,1,33,3,7,0,82
+75849,R&D,region_22,Bachelor's,m,other,1,34,1,9,0,82
+18585,Technology,region_15,Master's & above,m,sourcing,2,50,3,16,0,86
+58458,Sales & Marketing,region_4,Bachelor's,m,other,1,37,3,7,0,91
+4508,Analytics,region_7,Bachelor's,m,sourcing,2,43,5,13,0,87
+49618,Analytics,region_31,,m,sourcing,1,32,3,5,0,83
+36203,Analytics,region_11,Master's & above,m,sourcing,1,35,4,8,0,84
+62147,R&D,region_8,Bachelor's,m,sourcing,1,28,4,3,0,82
+3530,Analytics,region_15,Bachelor's,m,other,2,27,3,3,0,87
+9188,R&D,region_4,Master's & above,f,other,1,34,4,6,0,88
+37895,Technology,region_15,Master's & above,m,sourcing,1,44,4,4,0,80
+12868,R&D,region_22,Bachelor's,m,sourcing,2,29,5,5,0,87
+72095,Sales & Marketing,region_4,Bachelor's,m,sourcing,1,34,1,10,1,94
+77101,Technology,region_2,Master's & above,f,sourcing,1,43,4,5,0,80
+25793,Analytics,region_28,Master's & above,m,other,2,36,5,7,0,85
+27967,Analytics,region_31,Bachelor's,m,sourcing,2,29,4,3,1,86
+29562,Analytics,region_6,Bachelor's,m,other,2,34,2,5,0,85
+17135,Operations,region_22,Master's & above,f,other,1,33,3,4,1,94
+72591,Technology,region_26,Bachelor's,m,sourcing,1,47,3,6,0,84
+17580,Technology,region_2,Master's & above,m,other,1,50,4,17,0,80
+64809,Analytics,region_22,Bachelor's,m,sourcing,1,28,4,5,0,87
+40416,Legal,region_22,Bachelor's,m,sourcing,1,28,5,4,0,91
+10330,Analytics,region_11,Master's & above,m,sourcing,1,32,3,5,0,84
+75928,Analytics,region_8,Bachelor's,m,other,1,38,5,9,0,88
+50946,Analytics,region_30,Bachelor's,m,other,2,28,3,2,0,87
+64902,Analytics,region_13,Master's & above,m,other,1,34,1,3,0,84
+23890,Technology,region_22,Bachelor's,m,other,1,31,4,3,0,81
+64041,Technology,region_27,Bachelor's,f,other,2,26,3,3,0,85
+5955,Technology,region_5,Bachelor's,m,sourcing,1,30,1,2,0,83
+1502,R&D,region_4,Master's & above,m,sourcing,1,37,4,2,0,84
+23766,Analytics,region_10,Bachelor's,m,other,1,27,3,2,0,82
+51390,Technology,region_7,Bachelor's,m,other,1,29,4,3,0,83
+21153,Technology,region_7,Master's & above,m,sourcing,1,37,3,10,0,81
+54417,R&D,region_22,Master's & above,m,other,2,33,3,9,0,90
+51363,Analytics,region_31,Master's & above,m,other,1,37,3,9,0,83
+4022,Analytics,region_14,Bachelor's,m,sourcing,1,27,5,4,0,81
+46344,Operations,region_26,Bachelor's,m,other,1,28,3,4,0,90
+21959,Technology,region_22,Bachelor's,m,other,1,24,,1,0,82
+71875,Analytics,region_21,Bachelor's,m,other,1,26,3,3,0,87
+26558,Technology,region_7,Master's & above,m,sourcing,1,47,5,15,0,80
+35201,Technology,region_4,Master's & above,m,sourcing,1,42,4,3,0,83
+49810,Analytics,region_3,Bachelor's,m,other,2,30,3,2,1,84
+35790,R&D,region_2,Bachelor's,m,sourcing,2,33,5,10,0,85
+40170,Analytics,region_11,Bachelor's,m,other,2,26,5,3,0,82
+54593,Analytics,region_22,,f,sourcing,1,29,1,2,0,86
+50537,Technology,region_2,Bachelor's,m,sourcing,1,30,3,6,0,81
+14194,Operations,region_7,Master's & above,f,other,1,55,5,14,0,93
+36038,Analytics,region_16,Bachelor's,m,other,1,26,4,4,0,88
+28713,Analytics,region_7,Bachelor's,f,other,1,34,1,4,0,86
+19744,Analytics,region_22,Bachelor's,m,sourcing,2,28,3,6,0,88
+7941,Analytics,region_2,Bachelor's,m,other,2,34,3,7,0,85
+3905,Analytics,region_7,Master's & above,m,other,1,42,4,6,0,87
+61244,Technology,region_16,Bachelor's,f,other,1,33,3,5,0,81
+20739,Analytics,region_22,Bachelor's,m,other,2,24,,1,0,83
+18640,Technology,region_23,Bachelor's,m,sourcing,1,31,5,6,1,93
+75734,Analytics,region_27,Bachelor's,m,other,1,29,5,3,0,86
+1083,Analytics,region_31,Bachelor's,m,other,1,37,3,6,0,83
+76167,Analytics,region_26,Bachelor's,m,other,1,32,3,7,0,86
+27390,Technology,region_33,Bachelor's,m,sourcing,1,48,3,6,0,81
+32807,Analytics,region_29,Bachelor's,m,other,2,32,1,7,0,87
+65681,R&D,region_25,Master's & above,m,other,1,34,5,10,0,88
+44275,Technology,region_2,Master's & above,f,other,2,36,2,2,0,81
+5588,Analytics,region_7,Bachelor's,m,other,1,33,5,4,0,85
+37414,Analytics,region_15,Bachelor's,m,other,1,40,5,11,0,87
+9505,Technology,region_22,Bachelor's,f,sourcing,1,29,,1,0,80
+41456,Analytics,region_2,Master's & above,m,sourcing,1,40,3,11,0,87
+74490,Technology,region_2,Bachelor's,f,sourcing,2,28,3,2,0,81
+28192,Technology,region_7,Master's & above,m,referred,1,47,3,4,0,81
+61241,R&D,region_27,Master's & above,m,sourcing,1,33,1,8,0,83
+54320,Technology,region_7,Bachelor's,f,other,1,35,3,3,0,80
+1242,Analytics,region_34,Bachelor's,m,other,2,27,,1,0,83
+59589,Technology,region_2,Master's & above,f,other,2,35,3,9,0,81
+16222,Technology,region_10,Bachelor's,m,other,1,26,3,3,0,80
+46040,Technology,region_10,Bachelor's,m,other,1,33,3,6,0,82
+56753,R&D,region_4,Master's & above,m,other,1,30,3,6,0,87
+57043,Analytics,region_22,Bachelor's,m,sourcing,1,32,3,6,0,83
+76085,Technology,region_27,Bachelor's,m,sourcing,1,37,4,6,0,82
+30443,Analytics,region_28,Master's & above,m,other,2,41,5,7,0,86
+43450,Analytics,region_22,Bachelor's,m,sourcing,1,26,,1,0,87
