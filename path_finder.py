@@ -3,9 +3,6 @@ import shutil, send2trash
 
 current_dir = Path.cwd()
 downloads_dir = Path.home()/'Downloads'
-# send2trash.send2trash('copy_test.py')
-# send2trash.send2trash('helper_test.py')
-# send2trash.send2trash('test_results.csv')
 
 # moving all csv files from the downloads folder into the current dir
 
