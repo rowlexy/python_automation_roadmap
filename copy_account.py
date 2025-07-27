@@ -17,3 +17,5 @@ if account in profiles:
     pyperclip.copy(profiles[account])
 else:
     print(f'Account does not exist')
+
+
